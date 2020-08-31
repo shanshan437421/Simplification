@@ -1,0 +1,2 @@
+# Simplification
+Conceptnet simplification method
